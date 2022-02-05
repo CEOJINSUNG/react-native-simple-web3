@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["Web3"],"mappings":"AAAA,OAAO,eAAP;AACA,OAAO,YAAP;AACA,OAAOA,IAAP,MAAiB,MAAjB;AAEA,eAAeA,IAAf","sourcesContent":["import \"../globals.js\"\nimport \"../shim.js\"\nimport Web3 from \"web3\"\n\nexport default Web3\n"]}
